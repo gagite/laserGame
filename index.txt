@@ -1,0 +1,58 @@
+Accueil
+
+Accueil
+Nos scénarios
+Panique en amphi A
+La copie perdue de F. Peureux
+Le casse du bureau du Directeur
+Réserver
+Nous contacter
+
+Qu'est-ce qu'un escape game au SUP-FC ?
+
+Un escape game c'est :
+
+Un scénario béton
+Un espace de jeu immersif
+Un groupe de joueurs motivés
+Un maître de jeu tordu et bien vicieux qui fera tout vous en faire baver
+Une heure pour s'échapper en résolvant les énigmes
+Prêt(s) à relever nos défis ? Découvrez nos scénarios sans attendre !
+
+Pourquoi des escapes games ?
+
+Génèse du projet
+
+Le projet Escape Game au SUP-FC trouve son origine dans les nombreuses initiatives de renouvellement des techniques pédagogiques à l'Université de Franche-Comté. Ces initiatives soutenues par des financement sur projet nommés RITM-BFC explorent de nouvelles approches pour la pédagogique universitaire.
+
+À la pointe sur ces aspects, le Service Universitaire de Pégagogie de l'université de Franche-Comté a décidé de donner carte blanche aux enseignants-chercheurs du département d'informatique pour la mise en place d'escape games pédagogiques.
+
+Des escapes games pour apprendre et réviser
+
+Les escape games proposés par le SUP-FC sont fortement thématisés sur les enseignements proposés en informatique. Ils ont la vocation pédagogique de proposer des énigmes dont les solutions ne peuvent être trouvées sans mobiliser ses connaissances et ses compétences dans les différentes UE de la Licence Informatique.
+
+Typiquement, les joueurs devront : déduire la priorité d'une règle CSS pour ouvrir un cadenas, trouver le chemin pris par un message sur le réseaux pour ouvrir une porte, proposer un mot reconnu par un automate pour débloquer un tiroir, calculer le résultat d'une requête SQL pour déduire un mot de passe, etc. Les exemples ne manquent pas !
+
+Un mot des créateurs
+
+Avec la pandémie de COVID-19, beaucoup de nos habitudes d'enseignement ont été bouleversées. Beaucoup de nos collègues ont commencé à expérimenter des serious games pour donner aux étudiants la motivation de travailler le contenu de leur cours. Parallèlement, on voyait de plus en plus les escape games devenir des loisirs très prisés. Nous nous sommes donc dit : pourquoi ne pas concilier les deux ?
+
+Fabrice Bouquet, directeur du SUP-FC
+
+Nous avons rejoint Le pacte de geôliers, le regroupement d'escape games Bisontins, et nous avons ainsi pu bénéficier de leur experise pour la construction d'énigmes mélant les grands classiques des escapes (cadenas, cryptex, etc.) et le contenu pédagogique de nos UE de Licence Informatique.
+
+Frédéric Dadeau, principal créateur des énigmes
+
+Où jouer ces escapes games ?
+
+Les escapes games sont hébergées à divers emplacements du campus de la Bouloie. L'accueil et le paiement se fait à l'accueil de l'UFR-ST. De là, un maître de jeu vous amènera à l'emplacement où démarrera votre aventure :
+
+L'amphi A pour le scénario Panique en amphi A
+Le bureau de Fabien Peureux en 431C pour le scénario La copie perdue de F. Peureux
+Le bureau de Fabrice Bouquet dans le bâtiment du CTU pour le scénario Le casse du bureau du directeur
+
+Le plan ci-dessous montre les lieux concernés. Survolez les points pour connaître les lieux.
+
+Nos partenaires
+
+Octobre 2021 - Université de Franche-Comté - SUP-FC
